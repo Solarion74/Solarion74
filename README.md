@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Solarion74
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me https://discord.gg/aetqUaHeJU
+- 🌱 I’m currently learning Node.
 
 <!---
 Solarion74/Solarion74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
